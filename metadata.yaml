@@ -1,0 +1,31 @@
+_repo: Brighter-Britain---Volume-1-of-2-or-Settler-and-Maori-in-Northern-New-Zealand_29070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hay, W. Delisle (William Delisle)
+    alias: Hay, William Delisle
+    birthdate: 1851
+    gutenberg_agent_id: '33685'
+    url: http://www.gutenberg.org/2009/agents/33685
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2009-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Zealand -- Description and travel'
+- !lcsh 'Ethnology -- New Zealand'
+- !lcc 'DU'
+- !lcsh 'Maori (New Zealand people)'
+title: 'Brighter Britain! (Volume 1 of 2)
+
+  or Settler and Maori in Northern New Zealand'
+url: http://www.gutenberg.org/ebooks/29070
